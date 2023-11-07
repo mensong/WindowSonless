@@ -1,0 +1,23 @@
+[
+	{
+		"class_name": "#32770",
+		"title_regex": "^记事本$",
+		"spypp_messages": [
+			"<000016> 004509B0 S WM_CLOSE wParam:0 lParam:0"
+		]
+	},
+	{
+		"class_name": "#32770",
+		"title_regex": "^记事本$",
+		"keyboard": "VK_MENU+N"
+	},
+	{
+		"class_name": "#32770",
+		"title_regex": "^记事本$",
+		"click": {
+			"class_name" : "Button",
+			"title_regex": "^否(.*?)$"
+		}
+		
+	}
+]
